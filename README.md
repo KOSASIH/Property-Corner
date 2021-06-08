@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/KOSASIH/Property-Corner)
+
 ## Welcome to Property Corner
 
 The Property Corner is a system that can be used to monitor, analyze, regulate operations and manage and develop businesses related to providing community needs, especially in the property sector.
