@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Property Corner
+
+The Property Corner is a system that can be used to monitor, analyze, regulate operations and manage and develop businesses related to providing community needs, especially in the property sector.
 
 You can use the [editor on GitHub](https://github.com/KOSASIH/Property-Corner/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
